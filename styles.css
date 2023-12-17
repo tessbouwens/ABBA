@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(249, 224, 186);
+    color: #a24803;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    border: 6px solid rgb(231, 168, 112);
+    background-color: rgb(243, 194, 45);
+    list-style: none;
+
+}
+
+li {
+    margin: 2em;
+}
+
+img {
+    width: 90em;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5em;
+    font-family: "copperplate";
+    color: #de8948;
+}
+
+pre {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotofilm {
+    width: 15em;
+    height: 16em;
+}
+
+h1 {
+    color: #de8948;
+}
+
+.flex{
+    display: flex;
+}
+
+
+
+.leden {
+    width: 20em;
+    height: 20em;
+
+}
+
+
+.section1 {
+    display: block;
+}
+
+.section1 h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.section1 p {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: #a24803;
+    padding-top: 1.5em;
+}
+
+.div1 {
+    display: flex;
+}
+
+.dynamos {
+    width: 15em;
+    height: 15em;
+}
+
+.donna {
+    width: 15em;
+    height: 15em;
+    
+}
+
+.youngdynamos {
+    width: 15em;
+    height: 15em;
+}
+
+.section2 {
+    display: block;
+}
+
+.section2 p {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: #a24803;
+    padding-bottom: 2em;
+
+}
+
+.div2 {
+    display: flex;
+}
+
+
+.section3 {
+    display: block;
+}
+
+.section3 h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.section3 p {
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    color: #a24803;
+    padding-top: 1.5em;
+}
+
+.section_leden {
+    justify-content: space-evenly;
+    display: flex;
+
+    
+}
+
+.section_leden article {
+    width: 24vw;
+}
+
+
+.voyagetess{
+    width: 22em;
+    height: 20em;
+    justify-content: left;
+}
+
+.voyage{
+    width: 22em;
+    height: 20em;
+    justify-content: right;
+    
+}
+
+.secvoyage{
+    display: flex;
+    font-size: 20px;
+    color: #a24803;
+    padding-top: 1.5em;
+    justify-content: center;
+}
+
+.abbavoyage{
+    width: 27em;
+    height: 20em;
+}
+
